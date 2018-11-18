@@ -6,7 +6,4 @@
 npm-debug.log*
 
 
-public/bundle.js
-public/bundle.js.map
-public/styless.js
-public/styless.js.map
+public/dist/
